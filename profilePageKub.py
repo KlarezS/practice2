@@ -110,6 +110,7 @@ class accounting_calculator(QWidget):
                 
 
 def main():
+		print('test')
         app = QApplication(sys.argv)
 
         a = accounting_calculator()
